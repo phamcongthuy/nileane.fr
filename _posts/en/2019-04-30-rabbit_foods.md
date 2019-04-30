@@ -13,7 +13,7 @@ Pellets should be fresh, and should be relatively high in fiber (18% minimum fib
 
 **What kinds of veggies should I feed my rabbit?**
 
-When shopping for vegetables, look for a selection of different veggies–look for both dark leafy veggies and root vegetables, and try to get different colors. Stay away from beans and rhubarb. Introduce new veggies slowly. Here’s a suggested veggie list.
+When shopping for vegetables, look for a selection of different veggies–look for both dark leafy veggies and root vegetables, and try to get different colors. Stay away from beans and rhubarb. Introduce new veggies slowly. Here’s a [**suggested veggie list**](/2019/04/30/suggested_vegetables_and_fruits_for_a_rabbit_diet.html).
 
 **Is feeding hay important?**
 
