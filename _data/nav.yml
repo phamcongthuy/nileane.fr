@@ -10,11 +10,11 @@ en:
     url:   "/en/about"
 fr:
   home:
-    title: "En Bref"
+    title: "Nội dung chính"
     url:   "/"
   archive:
-    title: "Blog"
+    title: "Ghi chép của tôi"
     url:   "/fr/archive"
   about:
-    title: "À propos"
+    title: "Đôi nét giới thiệu"
     url:   "/fr/about"
