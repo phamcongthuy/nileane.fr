@@ -25,9 +25,11 @@ Most healthy, adult companion rabbits benefit from cutting back on high calorie 
 
 Nutrient requirements change over the life cycle. Pregnancy, lactation, extreme weight loss, old age, illness, or obesity all change nutritional needs. Nutrient need varies with body size. Specific breeds such as Angoras (and other long haired breeds), Rexes, and Giant breeds all have distinct nutrient needs.
 
-Suggested Veggies Lists:
+**Suggested Veggies Lists:**
+
 Binky Bunny 
-House Rabbit Society
+
+[House Rabbit Society](/2019/04/30/suggested_vegetables_and_fruits_for_a_rabbit_diet.html)
 
 Research Sources:
 Dr. Susan Smith, Ph.D., Professor of Nutritional Sciences, University of Wisconsin-Madison.
