@@ -17,7 +17,7 @@ When shopping for vegetables, look for a selection of different veggies–look f
 
 **Is feeding hay important?**
 
-Hay is essential to a rabbit’s good health, providing roughage which reduces the danger of hairballs and other blockages. Apple tree twigs also provide good roughage. Find out where to buy hay here.
+Hay is essential to a rabbit’s good health, providing roughage which reduces the danger of hairballs and other blockages. Apple tree twigs also provide good roughage. Find out where to [buy hay here.](https://thuyngo.vn)
 
 **What quantities of food should I feed babies and “teenagers”?**
 
