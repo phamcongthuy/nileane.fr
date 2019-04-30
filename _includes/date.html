@@ -1,6 +1,6 @@
 {% if include.mode != 'month' %}
   {% assign d = include.date | date: "%-d" %}
-  {% if page.lang == 'fr' %}
+  {% if page.lang == 'vn' %}
     {{ d }}{% if d == "1" %}<sup>er</sup>{% endif %}
   {% else %}
     {{ d }}<sup>{% case d %}
@@ -12,21 +12,21 @@
   {% endif %}
 {% endif %}
 
-{% if page.lang == 'fr' %}
+{% if page.lang == 'vnvn' %}
  {% assign m = include.date | date: "%-m" %}
  {% case m %}
-    {% when '1' %}janvier
-    {% when '2' %}février
-    {% when '3' %}mars
-    {% when '4' %}avril
-    {% when '5' %}mai
-    {% when '6' %}juin
-    {% when '7' %}juillet
-    {% when '8' %}août
-    {% when '9' %}septembre
-    {% when '10' %}octobre
-    {% when '11' %}novembre
-    {% when '12' %}décembre
+    {% when '1' %}tháng 1
+    {% when '2' %}tháng 2
+    {% when '3' %}tháng 3
+    {% when '4' %}tháng 4
+    {% when '5' %}tháng 5
+    {% when '6' %}tháng 6
+    {% when '7' %}tháng 7
+    {% when '8' %}tháng 8
+    {% when '9' %}tháng 9
+    {% when '10' %}tháng 10
+    {% when '11' %}tháng 11
+    {% when '12' %}tháng 12
   {% endcase %}
 {% else %}
   {{ include.date | date: "%B"}}

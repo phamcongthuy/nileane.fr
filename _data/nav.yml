@@ -8,13 +8,13 @@ en:
   about:
     title: "About me"
     url:   "/en/about"
-fr:
+vn:
   home:
     title: "Nội dung chính"
     url:   "/"
   archive:
     title: "Ghi chép của tôi"
-    url:   "/fr/archive"
+    url:   "/vn/archive"
   about:
     title: "Đôi nét giới thiệu"
-    url:   "/fr/about"
+    url:   "/vn/about"
