@@ -1,11 +1,11 @@
 ## Configuration file
 
-name: Nileane
+name: Rabbit Care Double Languages
 url: https://laemday.com
 
 author: Là em đấy
-description: Student in Geography & Urban Planning. In favor of an open web, and sometimes web designer. I’m a trans woman with a bunch of cute curls on my head.
-title: Nileane
+description: This website specializes in storing rabbit breeding data in two languages ​​by Pham Xuan Tiep and tiepz.com studio. Including English and Vietnamese.
+title: Rabbit Care Double Languages
 
 permalink: /:year/:month/:day/:title.html
 markdown: kramdown
